@@ -25,7 +25,7 @@ Further details will be shared in due time.
 
 
 ### Registration
-For members of the Statistical Society Australia the registration fee amounts to AU$200, reduced fees are available for student and retired members (A$50 and A$100, respectivley). Registration for non-members is A$400. 
+For members of the Statistical Society Australia the registration fee amounts to A$200, reduced fees are available for student and retired members (A$50 and A$100, respectivley). Registration for non-members is A$400. 
 
 Please follow this link to register:[;ink]
 
