@@ -6,7 +6,7 @@ The Western Australian branch of the Statistical Society Australia (WA-SSA) is d
 This page is dedicated to update attendees on the workshop schedule as well as to share course material.
 
 
-## Course Schedule
+## Schedule
 The online workshop will be held on three consecutive afternoons from November 22nd to 24th.
 
 The workshop is structured in the following way:
