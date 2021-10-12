@@ -20,7 +20,7 @@ The workshop is structured in the following way:
 
 
 ## Workshop material
-The workshop is designed as a Python Notebook than can be run with the cloud service Colaboratory ('Colab'), this allows you to write and execute Python in your browser. For more information visit the Google Colab website (https://colab.research.google.com/?utm_source=scs-index). 
+The workshop is designed as a Python Notebook than can be run with the cloud service Colaboratory ('Colab'), this allows you to write and execute Python in your browser. For more information visit the [Google Colab website](https://colab.research.google.com/?utm_source=scs-index). 
 Further details will be shared in due time.
 
 
