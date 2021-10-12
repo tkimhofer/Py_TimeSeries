@@ -7,7 +7,7 @@ This page is dedicated to update attendees on the workshop schedule as well as t
 
 
 ## Course Schedule
-The online workshop will be held on three consecutive afternoons from November 22th to 24th.
+The online workshop will be held on three consecutive afternoons from November 22nd to 24th.
 
 The workshop is structured in the following way:
 
@@ -24,7 +24,7 @@ The workshop is designed as a Python Notebook than can be run with the cloud ser
 Further details will be shared in due time.
 
 
-### Registration fees
+### Registration
 For members of the Statistical Society Australia the registration fee amounts to AU$200, reduced fees are available for student and retired members (A$50 and A$100, respectivley). Registration for non-members is A$400. 
 
 Please follow this link to register:[;ink]
