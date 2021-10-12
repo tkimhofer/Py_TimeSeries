@@ -1,18 +1,31 @@
-## Statistical Analysis of Time Series - Hands-on Workshop in Python
+## Statistical Analysis of Time Series
 
 
-The Western Australian branch of the Statistical Society Australia is delighted to host a Python workshop on the analysis of time series, open for all Society members as well as non-members.
+The Western Australian branch of the Statistical Society Australia (WA-SSA) is delighted to host a hands-on Python workshop on the analysis of time series. The online event will be conducted by this year's *Frank Hansford-Miller follow* Dr Manuel Hererra (Cambridge University, UK).
 
-The online workshop will be conducted by Dr Manuel Hererra, Research Associate in Distributed Intelligent Systems at Cambridge University, who has been awarded with the prestigious **FRANK HANSFORD-MILLER FELLOWSHIP** in 2021.
+This page is dedicated to update attendees on the workshop aschedule as well as to share course materials.
 
-### Save the Date
-The workshop will take place at early afternoon over three half days, from November 22 to 24.
 
-### Workshop Details
-[tba]
+## Course Schedule
+The online workshop will be held in November 22 to 24  on three consecutive afternoons.
 
-### Registration and fees
-The registration fees amounts to AU$200 for members of the Statistical Society Australia, with reduced fees for current students ($AU50) and retired members (AU$100). The registration fee for non-members amounts to AU$400. 
+The workshop is structured in the following way:
+
+|  Day | Time | Content |
+| ------------- | ------------- |
+| Day 1  | xx pm (4h)  |Introduction to Python |
+| Day 2  | xx pm (3h)  | xxx and xxx|
+| Day 2  | xx pm (3h)  | xxx and Q&A |
+
+
+## Course material
+The full workshop is conducted using the cloud service Colaboratory ('Colab'), which allows you to write and execute Python in your browser. For more information visit https://colab.research.google.com/?utm_source=scs-index
+Further details will be shared in due time.
+
+
+### Registration fees
+For members of the Statistical Society Australiahe the registration fee amounts to AU$200, reduced fees are available for current students and retired members ($AU50 adn AU$100, respectivley). Registration for non-members is AU$400. 
+
 Please follow this link to register:[;ink]
 
 ### About the Speaker
