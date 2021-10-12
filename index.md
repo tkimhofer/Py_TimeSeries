@@ -25,9 +25,9 @@ Further details will be shared in due time.
 
 
 ### Registration
-For members of the Statistical Society Australia the registration fee amounts to A$200, reduced fees are available for student and retired members (A$50 and A$100, respectivley). Registration for non-members is A$400. 
+For members of the Statistical Society Australia the registration fee amounts to A$200, reduced fees are available for student and retired members (A$50 and A$100, respectively). The registration fee for non-members is A$400. 
 
-Please follow this link to register:[;ink]
+Please follow this [link](#include link) to register.
 
 ### About the Speaker
 Dr Manuel Herrera is a Research Associate in distributed intelligent systems at the University of Cambridge. He obtained a PhD in Hydraulic Engineering and a degree in Statistics. His research focuses on predictive analytics and complex (adaptive) networks for smart and resilient critical infrastructure and utilities. Manuel’s interdisciplinary profile has proven to be successful in terms of the number and quality of publications; having a high academic impact. His latest research focusses with AI-enabled management and maintenance of the UK national infrastructure. Manuel is currently involved in projects of topics including telecommunications to 5G ports. Manuel is a fellow of the Royal Statistical Society and a member of IEEE and the Complex Systems Society.
