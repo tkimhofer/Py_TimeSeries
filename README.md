@@ -1,5 +1,5 @@
-## Statistical Analysis of Time Series
+## Time Series Data Mining with Python
 
-The Western Australian branch of the Statistical Society Australia (WA-SSA) is delighted to host a hands-on Python workshop on the analysis of time series data. The online event will be conducted by this years Frank Hansford-Miller follow Dr Manuel Herrera (Cambridge University, UK).
+The Western Australian Branch of the Statistical Society of Australia ([SSA WA](https://www.statsoc.org.au/Western-Australia)) is delighted to host this hands-on Python workshop on the analysis of time series data. This online event will be delivered by the 2021 Frank Hansford-Miller Fellow, Dr Manuel Herrera (University of Cambridge).
 
 **Please visit [this page](https://tkimhofer.github.io/Py_TimeSeries/) for more information**
